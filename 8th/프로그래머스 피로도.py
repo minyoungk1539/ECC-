@@ -19,4 +19,4 @@ def solution(k, dungeons):
         k = or_k
 
     answer = maxi
-    return answer
+    return answerp
